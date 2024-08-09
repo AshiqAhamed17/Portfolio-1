@@ -1,0 +1,44 @@
+body {
+    background-color: #66f4dd;
+  }
+  
+  h1 {
+    text-align: center;
+    color: black;
+    height: 100%;
+    width: 100%;
+  }
+  
+  h2 {
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  button {
+    text-align: center;
+    height: 30px;
+  
+  
+    color: whitesmoke;
+  
+  }
+  
+  div {
+  
+    text-align: center;
+  }
+  
+  #increment {
+    background: #2a3fa7;
+  
+  }
+  
+  #savebtn {
+    background-color: #4cc6d6;
+    color: whitesmoke;
+  }
+  
+  #saveel {
+    font-size: 25px;
+    font-style: italic;
+  }

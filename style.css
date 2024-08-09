@@ -1,0 +1,134 @@
+body {
+    background-color: rgb(0, 0, 33);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(18, 18, 62);
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    list-style: none;
+    margin: 0 23px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  nav ul li a:hover {
+    color: #6b6bdb;
+    font-size: 1.06rem;
+  }
+  
+  #element {
+    color: #9743e5;
+  }
+  
+  .left {
+    font-size: 1.5rem;
+  }
+  
+  .firstSection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px 0;
+  
+  }
+  
+  .firstSection>div {
+    width: 30%;
+  }
+  
+  .leftSection {
+    font-size: 2rem;
+  
+    width: 30%;
+  
+  }
+  
+  .rightSection img {
+    width: 70%;
+    margin: 50px 0;
+  
+  
+  }
+  
+  .purple {
+    color: #9743e5;
+  }
+  
+  .greyText {
+    color: #6e6e6e;
+  }
+  
+  .secondSection {
+    max-width: 80vw;
+    margin: auto;
+    height: 80vh;
+  }
+  
+  .secondSection .box {
+    background: white;
+    width: 80vw;
+    height: 2px;
+    margin: 56px 0;
+    display: flex;
+  }
+  
+  .secondSection .vertical {
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    margin: 0 150px;
+  }
+  
+  main hr {
+    border: 0;
+    background: #9743e5;
+    height: 1.2px;
+    margin: 60px 80px;
+  }
+  
+  
+  .secondSection h1 {
+    font-size: 2rem;
+  }
+  
+  .imageTop {
+    width: 35px;
+    position: relative;
+    top: -32px;
+    left: -9px;
+  }
+  
+  .verticalTitle {
+    position: relative;
+    top: 75px;
+    width: 150px;
+  }
+  
+  .abc {
+    position: relative;
+    top: 86px;
+    color: gray;
+    width: 150px;
+    font-size: 9px;
+  }
